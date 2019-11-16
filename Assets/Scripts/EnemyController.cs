@@ -5,9 +5,9 @@ using UnityEngine;
 public class EnemyController : MonoBehaviour
 {
     Rigidbody2D rb2d;
-    private float curAngle = 0f;
-    private float rotSpeed = 90f;
-    private bool isRotating = false;
+    // private float curAngle = 0f;
+    // private float rotSpeed = 90f;
+    // private bool isRotating = false;
     private Vector2 dir;
 
     public float speed = 5f;
